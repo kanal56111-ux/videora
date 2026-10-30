@@ -1,0 +1,14 @@
+{
+ "version": "5.0.5",
+ "date": "2026-10-30",
+ "notes": [
+  "Yangi Stickman Stories studiyasi: mavzu → ssenariy va rasm promptlari → rasm va ovoz yuklash → avtomatik montaj → MP4 eksport",
+  "Hikoyaga mos yangi fon musiqalari (9 kayfiyat, 45 trek) va 40 ta ovoz effekti — quiz musiqalari ishlatilmaydi",
+  "Diktor gapirganda musiqa avtomatik pasayadi, pauzalarda ko'tariladi"
+ ],
+ "file": "videora-5.0.5.bin",
+ "sig": "iAMM8mDdUNeBrnoEVMkdTqLyqbphMfMXT6la7iSk4GhepoVW2YS3xrFEy+sjoE8VphL6eBiqOm7TyuQZZhnzYg==",
+ "size": 1909943,
+ "sha256": "90f5d6bd488622736f35acfe9a8de7c09ccb6f2eab124e55af0616f14029066c",
+ "full": false
+}
